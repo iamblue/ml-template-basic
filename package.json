@@ -1,6 +1,6 @@
 {
   "name": "ml-template-basic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is the basic template for Microlattice.js",
   "main": "index.js",
   "SDKpath": "./src",
