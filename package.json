@@ -1,0 +1,12 @@
+{
+  "name": "ml-template-basic",
+  "version": "0.0.1",
+  "description": "This is the basic template for Microlattice.js",
+  "main": "index.js",
+  "SDKpath": "./src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iamblue",
+  "license": ""
+}

@@ -1,0 +1,6 @@
+/node_modules
+/out
+/sdk
+log.log
+testError.js
+_output.js
