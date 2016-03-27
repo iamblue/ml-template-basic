@@ -5,9 +5,7 @@
   "main": "index.js",
   "SDKpath": "./src",
   "scripts": {
-    "init": "",
-    "build": "",
-    "start": ""
+    "start": "npm run start"
   },
   "author": "iamblue",
   "license": ""
