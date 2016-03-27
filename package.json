@@ -5,8 +5,12 @@
   "main": "index.js",
   "SDKpath": "./src",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "init": "",
+    "build": "",
+    "start": ""
   },
   "author": "iamblue",
-  "license": ""
+  "license": "",
+  "dependencies": {
+  }
 }
